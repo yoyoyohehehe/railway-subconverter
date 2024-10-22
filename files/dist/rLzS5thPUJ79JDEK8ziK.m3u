@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/TVlogo/main/png/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000002226/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/TVlogo/main/png/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226676/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/TVlogo/main/png/CCTV3.png" group-title="央视频道",CCTV-3 综艺
@@ -41,6 +41,14 @@ http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342
 http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/TVlogo/main/png/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
 http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="4K频道",CCTV1-4K http://192.168.100.31:35455/tptv/G_CCTV-1-AVS-4K264.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="4K频道",CCTV3-4K http://192.168.100.31:35455/tptv/G_CCTV-3-AVS-4K264.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="4K频道",CCTV5-4K http://192.168.100.31:35455/tptv/G_CCTV-5-AVS-4K264.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",CCTV16-4K-10M http://192.168.100.31:35455/ysptp/cctv4k16_10m.m3u8
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4K频道",CCTV4K-10M http://192.168.100.31:35455/ysptp/cctv4k_10m.m3u8
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4K频道",CCTV4K http://192.168.100.31:35455/ysptp/cctv4k.m3u8
+#EXTINF:-1,tvg-id="4K超高清" tvg-name="4K超高清" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="4K频道",篮球4K http://192.168.100.31:35455/tptv/miguaoyun01-AVS-4K01.m3u8
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="4K频道",CCTV8K-36M http://192.168.100.31:35455/ysptp/cctv8k_36m.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/TVlogo/main/png/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/TVlogo/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
